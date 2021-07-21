@@ -1,3 +1,7 @@
+// c++
+
+//Write the c++ program to display the name 
+
 #include<iostream.h>
 main()
 {
