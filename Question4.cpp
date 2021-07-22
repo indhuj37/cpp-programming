@@ -1,5 +1,7 @@
 //C++
 
+//Write the c++ program to display the name and age of the student 
+
 #include<iostream>
 using namespace std;
 main()
