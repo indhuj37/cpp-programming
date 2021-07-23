@@ -1,3 +1,6 @@
+//C++
+
+//Write the c++ program to check whether the addition of two numbers
 #include<iostream>
 using namespace std;
 main()
