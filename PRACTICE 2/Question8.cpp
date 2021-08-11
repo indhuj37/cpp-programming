@@ -1,3 +1,6 @@
+//C++
+
+//Write the c++ program to check the average 
 #include<iostream>
 using namespace std;
 main()
