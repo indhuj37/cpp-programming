@@ -1,6 +1,6 @@
 //C++
 
-//
+//Write the c++ program to check the float values
 #include<iostream>
 using namespace std;
 main()
